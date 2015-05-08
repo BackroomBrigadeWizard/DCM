@@ -11,7 +11,7 @@ import com.backroombrigade.dcm.states.TestState;
 public class EngineMain extends StateBasedGame {
 
 	private static int width = 1280, height = 720;
-	private static final String TITLE= new String(new char[] {'D','C','M'});
+	private static final String TITLE= "DCM";
 	private static AppGameContainer app;
 	
 	public EngineMain(String name) {
